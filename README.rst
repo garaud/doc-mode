@@ -3,7 +3,7 @@ Emacs doc-mode
 ==============
 
 A fork from `doc-mode <http://nschum.de/src/emacs/doc-mode/>`_. See also the
-`source on Github https://github.com/nschum/doc-mode`_.
+`source on Github <https://github.com/nschum/doc-mode>`_.
 
 I looked for an alternative to the package doxymacs_ and I found
 **doc-mode**. I'll try to make it work for Emacs 24. I'll try to keep the
